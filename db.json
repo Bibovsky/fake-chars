@@ -1,0 +1,17 @@
+{
+	"voiceId1": {
+		"title": "char1fromserv"
+	},
+
+	"voiceId2": {
+		"title": "char2fromserv"
+	},
+
+	"voiceId3": {
+		"title": "char3fromserv"
+	},
+
+	"voiceId4": {
+		"title": "char4fromserv"
+	}
+}
